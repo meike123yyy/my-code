@@ -1,0 +1,50 @@
+Book
+ID0236
+my book
+kill
+0
+china
+isbn0001
+20
+CD
+ID0400
+my CD
+niko
+0
+china producer
+2024
+100
+Book
+ID0658
+my second book
+loli
+0
+china
+isbn0002
+30
+Book
+ID4836
+my book2
+solid
+0
+china publisher
+isbn1111
+30
+User
+fngbibsisd
+fngbibsisd
+fngbibsisd
+fngbibsisd
+END
+User
+meike123
+meike123
+meike123
+meike123
+END
+User
+fngbibsisd111
+fngbibsisd111
+fngbibsisd111
+fngbibsisd
+END
